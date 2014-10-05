@@ -8,3 +8,5 @@ Obligatorio de Ingeniería de Software III
 Alumnos: Amaral, Gómez, Ñahui y Suarez
 
 Año: 2014
+
+Profesor: Pablo G.
