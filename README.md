@@ -9,4 +9,4 @@ Alumnos: Amaral, Gómez, Ñahui y Suarez
 
 Año: 2014
 
-Profesor: Pablo G.
+Profesor: Pablo G.jjj
